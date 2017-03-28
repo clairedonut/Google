@@ -2,9 +2,18 @@ body {
   font-family: arial, sans-serif;
 }
 
-nav a {
+nav {
+  height: 200px;
+  width: 100%;
   display: inline-block;
-    float: right;
+
+}
+
+nav a {
+  font-size: 13px;
+  float: right;
+  margin: 20px;
+
 }
 
 .logo {
@@ -18,19 +27,19 @@ nav a {
   height: 92px;
 }
 
-.search {
-  vertical-align: middle;
-  text-align: center;
-}
-
-.search p {
+.logo p {
   position: relative;
   white-space: nowrap;
-  margin-top: -50px;
-  margin-left: -62px;
+  margin-top: -20px;
+  margin-left: 210px;
   color: #4285f4;
   font-size: 16px;
   font-family: roboto-regular, arial, sans-serif;
+}
+
+.search {
+  vertical-align: middle;
+  text-align: center;
 }
 
 .button {
