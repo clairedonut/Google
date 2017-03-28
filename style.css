@@ -66,6 +66,8 @@ footer {
   width: 100%;
   height: 40px;
   background-color: #F2F2F2;
+  margin-left: -5px;
+
 }
 
 footer p {
@@ -73,6 +75,7 @@ footer p {
     padding-left: 27px;
     font-size: small;
     color: #666;
+
 }
 
 .f-left {
@@ -81,4 +84,5 @@ footer p {
 
 .f-right {
   float: right;
+  padding-right: 25px
 }
