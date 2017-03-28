@@ -1,8 +1,7 @@
 # Replicate Google homepage
 
-## Overview
-This project aims to replicate as close as possible Google's (homepage)[https://www.google.fr]. 
+This project aims to replicate as close as possible Google's [homepage](https://www.google.fr). 
 
 
 
-*Contributor: (@CClaClaClaire)[https://www.twitter.com/cclaclaclaire]
+*Contributor: [@CClaClaClaire](https://www.twitter.com/cclaclaclaire)*
