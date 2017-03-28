@@ -17,8 +17,14 @@ nav a {
   text-align: center;
 }
 
-.logo p {
+.search p {
   position: relative;
+  white-space: nowrap;
+  margin-top: 50px;
+  margin-left: -62px;
+  color: #4285f4;
+  font-size: 16px;
+  font-family: roboto-regular, arial, sans-serif;
 }
 
 .button {
