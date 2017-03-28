@@ -40,11 +40,16 @@ nav a {
 .search {
   vertical-align: middle;
   text-align: center;
+  padding-top: 18px
 }
 
 .searchbar {
   width: 559px;
   height: 39px;
+  background-color: transparent;
+  border: 1px solid #CBCBCB;
+  box-shadow: 5px 3px 5px #DCDCDC;
+  border-radius: 2%;
 }
 
 
