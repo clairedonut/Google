@@ -16,6 +16,20 @@ nav a {
   text-align: center;
 }
 
+.button {
+  background-color: #F2F2F2;
+  border: 1px solid #F2F2F2;
+  border-radius: 2px;
+  box-shadow: 0 1px rgba(0, 0, 0, 0.1);
+  color: #757575;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px; /*No padding top/bottom and 10px padding left/right */
+  height: 36px;
+}
+
 .search p {
   display: inline-block;
 }
