@@ -2,6 +2,38 @@ body {
   font-family: arial, sans-serif;
 }
 
-nav {
+nav a {
+  display: inline-block;
+    float: right;
+}
+
+.search img {
+  vertical-align: middle;
+}
+
+.search {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.search p {
+  display: inline-block;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
     display: inline-block;
+}
+
+.f-left {
+  float: left;
+}
+
+.f-right {
+  float: right;
 }
