@@ -9,11 +9,16 @@ nav a {
 
 .search img {
   vertical-align: middle;
+  height: 92px;
 }
 
 .search {
   vertical-align: middle;
   text-align: center;
+}
+
+.logo p {
+  position: relative;
 }
 
 .button {
