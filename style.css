@@ -18,6 +18,10 @@ nav a {
   color: #666;
 }
 
+nav a:hover{
+  text-decoration: underline;
+}
+
 nav img {
   line-height: 50%;
   margin-right: 10px;
