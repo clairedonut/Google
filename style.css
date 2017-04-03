@@ -19,8 +19,8 @@ nav a {
 }
 
 nav img {
-  width: 25px;
-  margin-top: -8px;
+  line-height: 50%;
+  margin-right: 10px;
 }
 
 .logo {
