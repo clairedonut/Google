@@ -1,4 +1,171 @@
-body {
-  margin: 0;
-  font-family: arial, sans-serif;
+*
+{
+  /*  border: 1px solid black; */
+}
+body
+{
+    font-family: arial, sans-serif;
+    font-size: 13px;
+
+    margin: 0;
+}
+
+header,
+nav,
+section,
+footer
+{
+    width: 100%;
+}
+
+a
+{
+    text-decoration: none;
+
+    color: #666;
+}
+
+.text-right
+{
+    text-align: right;
+}
+
+/* -------- nav --------------------------------------------------- */
+
+nav
+{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+nav a
+{
+    padding: 15px;
+}
+
+
+
+/* -------- section : search bar -------------------------------------------- */
+
+
+section
+{
+    position: absolute;
+    top: 25%;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.logo p
+{
+    font-size: 16px;
+
+    position: relative;
+    bottom: 20px;
+    right: 5px;
+
+    text-align: right;
+
+    color: #4285f4;
+
+    margin: 0;
+}
+
+
+input
+{
+    width: 80%;
+    height: 39px;
+
+    border: 1px solid #cbcbcb;
+    border-radius: 2%;
+    background-color: transparent;
+    box-shadow: 5px 3px 5px #dcdcdc;
+}
+
+.searchbuttons
+{
+    margin-top: 40px;
+
+}
+
+.searchbuttons a
+{
+    margin: 20px 4px;
+    padding: 10px 16px;
+}
+
+.button
+{
+    font-size: 13px;
+    font-weight: bold;
+
+    color: #757575;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    box-shadow: 0 1px rgba(0, 0, 0, .1);
+}
+
+
+
+/* -------- footer --------------------------------------------------- */
+
+
+footer
+{
+    position: absolute;
+    bottom: 0;
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+}
+
+footer div
+{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    word-wrap: normal;
+
+}
+
+footer div a
+{
+    margin: auto ;
+}
+
+
+
+@media (min-width: 600px) {
+  input {
+    width: 50%;
+    max-width: 500px;
+  }
+
+  footer {
+    flex-direction: row;
+  }
+
+  footer div a {
+    margin: auto 20px; 
+  }
+
+  footer div:nth-child(1)
+  {
+    width: 35%;
+    justify-content: flex-start;
+  }
+
+  footer div:nth-child(2)
+  {
+    width: 65%;
+    justify-content: flex-end;
+  }
+
 }
