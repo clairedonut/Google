@@ -4,7 +4,11 @@
 
 This project aims to replicate [Google's homepage](https://www.google.fr)
 
-## Key elements: 
+## Key elements 
 
 * Responsive webpage with media breakpoint. 
-* use of flexbox layout mode to position elements.
+* Flexbox layout mode to position elements.
+
+Screenshot of Google page (desktop format): 
+
+![Google home page](https://github.com/clairedonut/Google/blob/master/images/googlehome.png)
