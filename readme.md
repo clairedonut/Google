@@ -1,7 +1,10 @@
-# Project | Google
+# Google
 
-This project aims to replicate as close as possible [Google's homepage](https://www.google.fr). 
+## Description of project
 
+This project aims to replicate [Google's homepage](https://www.google.fr)
 
+## Key elements: 
 
-*Contributor: [@CClaClaClaire](https://www.twitter.com/cclaclaclaire)*
+* Responsive webpage with media breakpoint. 
+* use of flexbox layout mode to position elements.
