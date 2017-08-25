@@ -2,7 +2,7 @@
 
 ## Description of project
 
-This project aims to replicate [Google's homepage](https://www.google.fr)
+This project aims to reproduce [Google's homepage](https://www.google.fr)
 
 ## Key elements 
 
