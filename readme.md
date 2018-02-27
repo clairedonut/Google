@@ -1,6 +1,7 @@
 # Google
 
-Reproduction of Google's home page to practice html and css. 
+Reproduction of Google's home page to practice html and css.   
+
 Take a look the reproduction [here](https://clairedonut.github.io/Google/) .
 
 ## Key elements 
