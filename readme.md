@@ -1,12 +1,11 @@
 # Google
 
-## Description of project
-
-This project aims to reproduce [Google's homepage](https://www.google.fr)
+Reproduction of Google's home page to practice html and css. 
+Take a look the reproduction [here](https://clairedonut.github.io/Google/) .
 
 ## Key elements 
 
-* Responsive webpage with media breakpoint. 
+* Responsive webpage with media breakpoints. 
 * Flexbox layout mode to position elements.
 
 Screenshot of Google page (desktop format): 
